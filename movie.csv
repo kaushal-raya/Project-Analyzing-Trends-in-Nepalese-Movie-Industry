@@ -1,0 +1,61 @@
+id,title,release_year,genre,director,cast,budget_million_NPR,revenue_million_NPR,runtime_minutes,language,rating,review_text
+1,Seto Bagh,2015,Historical Drama,Neer Shah,"Rajesh Hamal, Neer Shah",18,45,135,Nepali,7.35,Based on the historical novel about Jung Bahadur Rana.
+2,Mero Euta Saathi Chha,2009,Romance,Sudarshan Thapa,"Rajesh Hamal, Rekha Thapa",12,38,130,Nepali,6.7,A romantic story about friendship and love.
+3,Sundar Mero Naam,2010,Drama,Tulsi Ghimire,"Bhuwan K.C, Tripti Nadakar",10,30,125,Nepali,7.1,Drama focusing on social issues.
+4,Saathi,1999,Romance,Yadav Kharel,"Rajesh Hamal, Karishma Manandhar",15,50,140,Nepali,7.45,Popular romantic film of the late 90s.
+5,Basanti,2000,Historical Romance,Neer Bikram Shah,"Rajesh Hamal, Karishma Manandhar",15,48,160,Nepali,7.55,Romantic drama set in the Rana period.
+6,Hami Teen Bhai,2004,Comedy,Shiva Regmi,"Rajesh Hamal, Niruta Singh",12,40,130,Nepali,6.8,Comedy about three brothers and their antics.
+7,Krodh,1999,Action,Deepak Rayamajhi,"Rajesh Hamal, Jal Shah",10,35,120,Nepali,6.6,Action-packed drama with revenge themes.
+8,Darpan Chhaya 2,2017,Romance,Tulsi Ghimire,"Anmol K.C, Samragyee RL Shah",20,55,140,Nepali,6.4,Sequel to the popular romantic drama.
+9,Mero Best Friend,2012,Romantic Comedy,Prasanna Poudel,"Saugat Malla, Priyanka Karki",10,30,115,Nepali,6.7,Light-hearted romantic comedy.
+10,Junge,2018,Action,Bikash Raj Acharya,"Anmol K.C, Priyanka Karki",18,50,125,Nepali,6.8,Action thriller with intense sequences.
+11,Chhakka Panja 3,2018,Comedy,Deepa Shree Niraula,"Madan Krishna Shrestha, Kedar Ghimire",20,90,145,Nepali,6.6,Third film in the popular comedy series.
+12,Kabaddi 3,2019,Comedy,Ram Babu Gurung,"Dayahang Rai, Saugat Malla",20,90,140,Nepali,7.85,Third installment in the Kabaddi franchise.
+13,Jatrai Jatra,2019,Comedy,Pradeep Bhattarai,"Bipin Karki, Barsha Raut",12,40,110,Nepali,7.05,Comedy about a group of friends and their misadventures.
+14,Sunkesari,2018,Horror,Bhusan Dahal,Unknown,10,30,110,Nepali,6.4,Horror film based on local myths.
+15,Jatra,2016,Comedy,Pradeep Bhattarai,"Bipin Karki, Barsha Raut",7,40,110,Nepali,7.75,Comedy about a lottery ticket and friendship.
+16,Saili,2019,Drama,Ram Babu Gurung,"Dayahang Rai, Miruna Magar",12,40,120,Nepali,7.75,Drama about struggles of migrant workers.
+17,Kalo Pothi,2015,Drama,Min Bahadur Bham,"Dayahang Rai, Khadka Raj Nepali",10,35,110,Nepali,7.95,A story set during Nepal’s civil war.
+18,Kabaddi,2013,Comedy,Ram Babu Gurung,"Dayahang Rai, Saugat Malla",10,50,125,Nepali,7.45,Village love story with humor.
+19,Saayad,2012,Drama,Saugat Bista,"Saugat Malla, Nisha Adhikari",8,30,120,Nepali,6.9,Youth drama about friendship and love.
+20,Kabaddi Kabaddi,2015,Comedy,Ram Babu Gurung,"Dayahang Rai, Saugat Malla",15,80,135,Nepali,7.7,A humorous tale of love and rivalry in a village.
+21,Talakjung vs Tulke,2014,Drama,Nischal Basnet,Dayahang Rai,10,35,130,Nepali,7.55,Drama about a man’s struggle in rural Nepal.
+22,Suntali,2014,Comedy Drama,Ram Babu Gurung,"Keki Adhikari, Dayahang Rai",12,38,110,Nepali,7.3,A quirky tale about a bride and her family.
+23,White Sun,2016,Drama,Deepak Rauniyar,"Dayahang Rai, Rabindra Singh Baniya",15,50,110,Nepali,8.4,Post-civil war drama exploring family and reconciliation.
+24,Kabaddi Kabaddi Kabaddi,2019,Comedy,Ram Babu Gurung,"Dayahang Rai, Saugat Malla",20,90,140,Nepali,7.85,Third installment in the popular Kabaddi series.
+25,Jatra,2016,Comedy,Pradeep Bhattarai,"Bipin Karki, Barsha Raut",7,40,110,Nepali,7.75,Comedy about a lottery ticket and friendship.
+26,Seto Surya,2016,Drama,Yadav Kharel,"Rajesh Hamal, Rekha Thapa",15,45,135,Nepali,7.2,A story about social issues and family values.
+27,Desh Dekhi Bidesh,2008,Drama,Narendra Thapa,"Nikhil Upreti, Dilip Rayamajhi, Prerana Sharma",12,40,130,Nepali,6.9,Drama about migration and dreams.
+28,Kanchhi,1984,Drama,B.S. Thapa,"Shiv Shrestha, Sushila Raimajhi, Sharmila Shah",8,25,120,Nepali,7.45,Popular drama from the 80s.
+29,Pheri Bhetaula,1990,Romance,Phurpa Kshring Gurung,"Manisha Koirala, Ravi Shah, Laxmi Giri",10,30,115,Nepali,6.4,Romantic film starring Manisha Koirala.
+30,Prem Pinda,1995,Historical Romance,Yadav Kharel,"Saroj Khanal, Sunny Rauniyar, Neer Bikram Shah",10,40,120,Nepali,7.4,Love story set in Rana regime era.
+31,Darpan Chhaya,2001,Romance,Tulsi Ghimire,"Rajesh Hamal, Jharana Thapa",10,45,150,Nepali,7.95,Popular romantic drama of early 2000s.
+32,Classic,2016,Romance,Dinesh Raut,"Aaryan Sigdel, Namrata Shrestha",15,50,135,Nepali,7.05,Romantic drama with beautiful music.
+33,Kohi Mero,2010,Romance,Alok Nembang,"Rajesh Hamal, Rekha Thapa",10,35,130,Nepali,6.8,Romantic film with emotional depth.
+34,Jhola,2014,Drama,Yadav Kharel,"Deeya Maskey, Saugat Malla",10,40,120,Nepali,8.2,A poignant film on the practice of sati.
+35,Muna Madan,2003,Drama,Gyanendra Bahadur Deuja,"Deepak Tripathi, Usha Paudel, Mithila Sharma",12,45,133,Nepali,7.95,Epic tragedy based on Nepal's famous poem.
+36,Acharya,2011,Biography,Prashant Rasaily,"Satya Raj Acharya, Aruna Karki, Bipin Karki",12,40,147,Nepali,7.6,The inspiring journey of singer Bhakta Raj Acharya.
+37,Numafung,2001,Drama,Nabin Subba,"Anupama Subba, Niwahangwa Limbu, Prem Subba",8,25,108,Nepali,8.35,A story about Limbu culture and a young girl's struggle.
+38,Uma,2013,Drama,Tsering Rhitar Sherpa,"Reecha Sharma, Saugat Malla, Mithila Sharma",10,30,140,Nepali,7.3,"Set during the Maoist insurgency, a family drama."
+39,Mero Love Story,2016,Romance,Unknown,Unknown,8,20,120,Nepali,6.4,A youthful romantic drama.
+40,Facebook,2012,Drama,Unknown,Unknown,5,20,110,Nepali,6.75,Drama exploring social media impact.
+41,Death Zone: Cleaning Mount Everest,2018,Documentary,Unknown,20 Nepali climbers,10,30,99,Nepali,7.35,Documentary on Mount Everest cleanup efforts.
+42,Dayarani,2024,Drama,Unknown,Unknown,15,35,90,Nepali,8.2,Emotional drama with strong performances.
+43,Jump,2023,Thriller,Unknown,Unknown,20,60,100,Nepali,8.55,Thrilling story of supernatural time alteration.
+44,Gharjwai,2024,Drama,Unknown,Unknown,18,50,134,Nepali,8.05,A farmer's life and intertwined destinies.
+45,Unko Sweater - The Woolen Sweater,2025,Drama,Unknown,"Miruna Magar, Bipin Karki",20,40,125,Nepali,7.9,A touching story of human connections.
+46,Desh Dekhi Bidesh,2008,Drama,Narendra Thapa,"Nikhil Upreti, Dilip Rayamajhi, Prerana Sharma",12,40,130,Nepali,6.9,Drama about migration and dreams.
+47,Kanchhi,1984,Drama,B.S. Thapa,"Shiv Shrestha, Sushila Raimajhi, Sharmila Shah",8,25,120,Nepali,7.45,Popular drama from the 80s.
+48,Pheri Bhetaula,1990,Romance,Phurpa Kshring Gurung,"Manisha Koirala, Ravi Shah, Laxmi Giri",10,30,115,Nepali,6.4,Romantic film starring Manisha Koirala.
+49,Kabaddi,2013,Comedy,Ram Babu Gurung,"Dayahang Rai, Saugat Malla",10,50,125,Nepali,7.45,Village love story with humor.
+50,Loot,2012,Crime Drama,Nischal Basnet,"Saugat Malla, Dayahang Rai",8,60,120,Nepali,8.1,A heist movie that changed Nepali cinema.
+51,Mero Best Friend,2012,Romantic Comedy,Prasanna Poudel,"Saugat Malla, Priyanka Karki",10,30,115,Nepali,6.7,Light-hearted romantic comedy.
+52,Junge,2018,Action,Bikash Raj Acharya,"Anmol K.C, Priyanka Karki",18,50,125,Nepali,6.8,Action thriller with intense sequences.
+53,Seto Surya,2016,Drama,Yadav Kharel,"Rajesh Hamal, Rekha Thapa",15,45,135,Nepali,7.2,A story about social issues and family values.
+54,Darpan Chhaya 2,2017,Romance,Tulsi Ghimire,"Anmol K.C, Samragyee RL Shah",20,55,140,Nepali,6.4,Sequel to the popular romantic drama.
+55,Saayad,2012,Drama,Saugat Bista,"Saugat Malla, Nisha Adhikari",8,30,120,Nepali,6.9,Youth drama about friendship and love.
+56,Jatrai Jatra,2019,Comedy,Pradeep Bhattarai,"Bipin Karki, Barsha Raut",12,40,110,Nepali,7.05,Comedy about a group of friends and their misadventures.
+57,Sunkesari,2018,Horror,Bhusan Dahal,Unknown,10,30,110,Nepali,6.4,Horror film based on local myths.
+58,Saili,2019,Drama,Ram Babu Gurung,"Dayahang Rai, Miruna Magar",12,40,120,Nepali,7.75,Drama about struggles of migrant workers.
+59,Kalo Pothi,2015,Drama,Min Bahadur Bham,"Dayahang Rai, Khadka Raj Nepali",10,35,110,Nepali,7.95,A story set during Nepal’s civil war.
+60,Chhakka Panja 3,2018,Comedy,Deepa Shree Niraula,"Madan Krishna Shrestha, Kedar Ghimire",20,90,145,Nepali,6.6,Third film in the popular comedy series.
